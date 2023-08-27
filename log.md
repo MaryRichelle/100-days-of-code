@@ -17,4 +17,10 @@ skipped day 2 😭
 learn more about BOM and solved some #js snippets
  learn more about <dl>, <dt> and <dd> tags in html
 
- **Thoughts:** was not familiar with BOM but not it pretty much clear and i was familiar with <dl> tag in html but never practiced today worked on it
+ **Thoughts:** was not familiar with BOM but now it pretty much clear and i was familiar with <dl> tag in html but never practiced today worked on it
+
+### Day 4 August 27, 2023 Sunday
+
+**Today's Progress**:
+ revisited Javascript specially hoisting ,closure, lexical, function types, var, let , and  const solved some  javascript tricky parts 
+**Thoughts:** all the things make more sense and crystal clear 
